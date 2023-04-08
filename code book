@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
 this code-book ctf will be your 1st most ctf given by the website.
-simple linux commands are required for finging the flag.
+simple linux commands are required for finding the flag.
 MAKE SURE BOTH THE FILES code.py AND codebook.txt ARE IN SAME DIRECTORY (if not , make the required changes to locate both files at one place).
 
 $ sudo su
